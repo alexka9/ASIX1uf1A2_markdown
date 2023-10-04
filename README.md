@@ -51,6 +51,6 @@ El CSS es un lenguaje que utiliza mpara que haya un estilo es nuestra pagina web
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
-[https://github.com/alexka9/ASIX1uf1A2_markdown/blob/main/teoriamarkdown.png]
+![Esta es una foto del flujo de trabajo](https://github.com/alexka9/ASIX1uf1A2_markdown/blob/main/teoriamarkdown.png)
 
 
