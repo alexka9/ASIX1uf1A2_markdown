@@ -31,15 +31,15 @@ presentación
 6.¿Que es HTML?
 
 Es un codigo que se utiliza para estrcuturar las paginas web y sus contenidos, como tablas, imagenes...
-|<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="with=device-width, initial-scale=1.0">
-    <title>Document</title>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="with=device-width, initial-scale=1.0">
+<title>Document</title>
 </head>
-<body>|
+<body>
 
 
 </body>
@@ -51,6 +51,6 @@ El CSS es un lenguaje que utiliza mpara que haya un estilo es nuestra pagina web
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
-[]
+[https://github.com/alexka9/ASIX1uf1A2_markdown/blob/main/teoriamarkdown.png]
 
 
