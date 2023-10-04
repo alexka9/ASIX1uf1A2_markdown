@@ -51,4 +51,6 @@ El CSS es un lenguaje que utiliza mpara que haya un estilo es nuestra pagina web
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
+<img src="C:\repositorio_markdwon\ASIX1uf1A2_markdown\Captura de pantalla 2023-10-04 133455.png">
+
 
