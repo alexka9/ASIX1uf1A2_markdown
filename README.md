@@ -31,19 +31,19 @@ presentación
 6.¿Que es HTML?
 
 Es un codigo que se utiliza para estrcuturar las paginas web y sus contenidos, como tablas, imagenes...
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="with=device-width, initial-scale=1.0">
-<title>Document</title>
-</head>
-<body>
+!DOCTYPE html
+html lang="en"
+head
+meta charset="UTF-8"
+   meta http-equiv="X-UA-Compatible" content="IE=edge"
+   meta name="viewport" content="with=device-width, initial-scale=1.0"
+   title>Document/title
+/head
+body
 
 
-</body>
-</html>
+/body
+/html
 
 7¿Que es CSS?
 
