@@ -31,7 +31,7 @@ presentación
 6.¿Que es HTML?
 
 Es un codigo que se utiliza para estrcuturar las paginas web y sus contenidos, como tablas, imagenes...
-<!DOCTYPE html>
+|<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -39,7 +39,7 @@ Es un codigo que se utiliza para estrcuturar las paginas web y sus contenidos, c
     <meta name="viewport" content="with=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body>|
 
 
 </body>
@@ -51,6 +51,6 @@ El CSS es un lenguaje que utiliza mpara que haya un estilo es nuestra pagina web
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
-<img href="C:\repositorio_markdwon\ASIX1uf1A2_markdown\Captura de pantalla 2023-10-04 133455.png">
+[]
 
 
